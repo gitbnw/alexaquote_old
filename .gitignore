@@ -16,6 +16,9 @@
 !/log/.keep
 /tmp
 
+*.pem
+*.crt
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
